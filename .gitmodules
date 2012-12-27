@@ -1,3 +1,6 @@
 [submodule "thinkphp"]
 	path = thinkphp
 	url = git@github.com:liu21st/thinkphp
+[submodule "static/bootstrap"]
+	path = static/bootstrap
+	url = git@github.com:twitter/bootstrap

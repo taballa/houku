@@ -166,9 +166,9 @@ pip-log.txt
 
 
 
-#############
+##########################
 ## bootstrap (twitter)
-#############
+##########################
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -209,6 +209,6 @@ dist
 
 
 #############
-## Houku
+## ThinkPHP
 #############
 Runtime

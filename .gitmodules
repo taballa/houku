@@ -4,3 +4,6 @@
 [submodule "static/bootstrap"]
 	path = static/bootstrap
 	url = git@github.com:twitter/bootstrap
+[submodule "extend"]
+	path = extend
+	url = git@github.com:liu21st/extend

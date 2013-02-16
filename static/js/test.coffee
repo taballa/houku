@@ -1,8 +1,6 @@
 # Type here!
 
-math =
-  root:   Math.sqrt
-  square: square
-  cube:   (x) -> x * square x
+dd = 33
 
-alert "Three cubed is #{math.cube 3}"
+object =
+func: -> $('#div').click => @element.css color: 'red'

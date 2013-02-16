@@ -7,3 +7,9 @@
 [submodule "extend"]
 	path = extend
 	url = git@github.com:liu21st/extend
+[submodule "static/js/jquery"]
+	path = static/js/jquery
+	url = git@github.com:jquery/jquery
+[submodule "static/js/do"]
+	path = static/js/do
+	url = git@github.com:taballa/Do
